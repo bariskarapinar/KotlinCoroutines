@@ -1,4 +1,4 @@
-# 🎓 Kotlin Coroutines Academy 🚀
+# 🚀 Kotlin Coroutines 
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-blue.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
 [![Android](https://img.shields.io/badge/Android-Target_SDK_36-green.svg?style=flat&logo=android)](https://developer.android.com)
@@ -6,13 +6,18 @@
 
 Welcome to the **Kotlin Coroutines Academy**, a vibrant, interactive playground built to master the art of asynchronous programming on Android. This project is a dedicated educational tool designed to visualize complex coroutine concepts through colorful, interactive, and real-time demonstrations.
 
----
-
 ## 🎨 Visuals & Screenshots
 
-| Main Dashboard | Parallel Async Demo | Flow Visualization |
-| :---: | :---: | :---: |
-| <img src="placeholders/main.png" width="250" /> | <img src="placeholders/async.png" width="250" /> | <img src="placeholders/flow.png" width="250" /> |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86fac011-ba6f-4136-9e9c-443e32d60663" width="24%">
+  <img src="https://github.com/user-attachments/assets/f3368148-178f-4772-abd4-616399bc06cc" width="24%">
+  <img src="https://github.com/user-attachments/assets/40e7a497-c245-4d17-8e6b-b3224054cfdb" width="24%">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e895d8f-bf6f-4773-9ea8-094747692aeb" width="24%">
+  <img src="https://github.com/user-attachments/assets/a55011d6-4396-482b-b3c1-40dd7b82ff76" width="24%">
+  <img src="https://github.com/user-attachments/assets/f7bf0fbc-40dd-46b9-967d-4c3353423dd5" width="24%">
+</p>
 
 ---
 
